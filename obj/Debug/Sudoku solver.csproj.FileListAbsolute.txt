@@ -1,0 +1,9 @@
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\bin\Debug\Sudoku solver.exe.config
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\bin\Debug\Sudoku solver.exe
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\bin\Debug\Sudoku solver.pdb
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\obj\Debug\Sudoku solver.csprojAssemblyReference.cache
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\obj\Debug\Sudoku_solver.Form1.resources
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\obj\Debug\Sudoku_solver.Properties.Resources.resources
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\obj\Debug\Sudoku solver.csproj.GenerateResource.cache
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\obj\Debug\Sudoku solver.exe
+C:\Users\jacob\Documents\Visual Studio 2019\Sudoku solver\obj\Debug\Sudoku solver.pdb
