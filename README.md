@@ -6,3 +6,4 @@ click the solve button to automatically solve the board based on the locked cell
 
 ![](media/setup.png)
 ![](media/solved.png)
+
